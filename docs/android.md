@@ -2,7 +2,7 @@
 
 ## Configure
 
-1. Add a `splash` drawable to your project. I recommend using 9-png _and_ adding a size for each screen density.
+1. Add a `splash` drawable to your project(project_name/android/app/src/main/res/drawable). I recommend using 9-png _and_ adding a size for each screen density.
 
     http://stackoverflow.com/a/34726279
 
