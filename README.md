@@ -25,8 +25,9 @@ as late as possible so as to give your application more time to "load".
 import SplashScreen from "rn-splash-screen";
 
 // Hide the active splash screen
-SplashScreen.hide();
-```
+ComponentDidMount(){
+  SplashScreen.hide();
+}```
 
 ## Credits
  - [@remobile](https://github.com/remobile)
